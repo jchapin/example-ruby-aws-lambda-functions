@@ -1,0 +1,11 @@
+github:
+  client_id: ''
+  client_secret: ''
+  access_token: ''
+  username: ''
+  repos:
+    - owner: ''
+      repo: ''
+slack:
+  token: ''
+  user: ''
